@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: 'Translation of: South Sea Tales'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18532#Verhalen-van-de-Zuidzee
 gutenberg_issued: '2006-06-07'
 gutenberg_type: Text
 identifiers:
